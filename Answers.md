@@ -32,7 +32,9 @@ Customer Collaboration: Close collaboration with customers ensures that the prod
 
 Early Testing: Testing is integrated into the development cycle, leading to early detection and resolution of issues. 
 
-Disadvantages: Less Predictable: The lack of detailed planning can make it hard to predict timelines and costs accurately. 
+                                 Disadvantages:
+
+Less Predictable: The lack of detailed planning can make it hard to predict timelines and costs accurately. 
 
 Requires High Commitment: Agile requires constant collaboration and commitment from both the development team and stakeholders. Scope Creep: Without careful management, there’s a risk of scope creep due to frequent changes and additions.
 
